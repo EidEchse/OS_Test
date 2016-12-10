@@ -1,0 +1,1 @@
+[] execVM "OS_Scripts\init.sqf";
